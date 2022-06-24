@@ -23,9 +23,8 @@ class GruposController extends Controller
      */
     public function create()
     {
-        //
+        //Hola amigos agregue esta linea de codigo en el controlador de los grupos
     }
-
     /**
      * Store a newly created resource in storage.
      *

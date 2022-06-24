@@ -6,6 +6,7 @@
             <h2 class="mb-30 wow fadeInUp" data-wow-delay=".4s">Control de Tickets</h2>
             <p class="mb-50 wow fadeInUp" data-wow-delay=".6s">&nbsp;</p>
             <p class="mb-50 wow fadeInUp" data-wow-delay=".6s">Gestiona las quejas y devoluciones de tus productos en tu empresa.</p>
+            <h2>HOLA SE AGREGO ESTA LINEA DE CODIGO AL INDEX</h2>
         </div>
         </div>
         <div class="col-lg-6">
